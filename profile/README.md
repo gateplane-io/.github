@@ -78,4 +78,5 @@ GatePlane is open to feedback, suggestions and contributions as we know that the
 Do you have more questions?
 
 Contact us at 📧 contact@gateplane.io 
+
 Or join our 💬 [Slack Community](https://join.slack.com/t/gateplane-community/shared_invite/zt-3erzr2612-7Lhsx~cwpQ3kUvqcClIdiQ)
