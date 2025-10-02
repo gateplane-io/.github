@@ -74,10 +74,8 @@ GatePlane is open to feedback, suggestions and contributions as we know that the
 
 ##### Every contribution leaves a mark, let’s build something great together! ✨
 
-## Contact us 
-Do you have more questions? Contact us at ☎️ contact@gateplane.io 
+## Contact us ☎️
+Do you have more questions?
 
-
-
-
-
+Contact us at 📧 contact@gateplane.io 
+Or join our 💬 [Slack Community](https://join.slack.com/t/gateplane-community/shared_invite/zt-3erzr2612-7Lhsx~cwpQ3kUvqcClIdiQ)
