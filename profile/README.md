@@ -2,7 +2,7 @@
 
 GatePlane is created to make **time-based**, **conditional access management** approachable and transparent, *made by Security Professionals for Security Professionals*.
 
-It implements *Just-In-Time* (JIT) ⏱️, *Privileged Access Management* (PAM) 🔐, helping tech groups and companies to give, revoke and monitor permissions across the whole organization.
+It implements *Approval-Based* 🗳️, *Just-In-Time* (JIT) ⏱️, *Privileged Access Management* (PAM) 🔐, helping tech groups and companies to give, revoke and monitor permissions across the whole organization.
 
 It is using [Hashicorp Vault](https://developer.hashicorp.com/vault) / [OpenBao](https://openbao.org/), to ensure *we don't re-invent the AuthN/AuthZ wheel*, but create true value for the already existing community.
 
@@ -36,7 +36,9 @@ We aim to achieve this purpose by creating a community-driven solution that sets
 
 In this Github Org you will find:
 * The [`vault-plugins`](https://github.com/gateplane-io/vault-plugins) repository - containing all code and releases to create your PAM
-* The `terraform-*` repositoriies for Infrastructure as Code setups
+* The [`vault-yaml`](https://github.com/gateplane-io/vault-yaml) repository - transforming your Vault/OpenBao to a declarative, conditional RBAC policy system
+
+* The `terraform-*` repositories for Infrastructure as Code setups
   * [`terraform-gateplane-setup`](https://github.com/gateplane-io/terraform-gateplane-setup) - Sets up Vault/OpenBao to work with GatePlane
   * `terraform-` repositories that end with `-gate` - Set up individual GatePlane Core features (Policy Gate, Okta, etc)
   * [`terraform-gateplane-services-setup`](https://github.com/gateplane-io/terraform-gateplane-services-setup) - Sets up Vault/OpenBao to work with [*GatePlane Services Features*](https://gateplane.io/#services)
@@ -45,7 +47,7 @@ In this Github Org you will find:
 
 🧩 Find complete overview of features, setup, and usage in [README](https://github.com/gateplane-io/vault-plugins)
 
-💻 Get your hands on now with a live demo [here](https://app.gateplane.io/get-started/demo)
+💻 Get your hands on now with a live demo [here](https://github.com/gateplane-io/demo)
 
 ❓ We replied all the FAQ for you [here](https://gateplane.io/#faq)
 
@@ -64,11 +66,11 @@ GatePlane is open to feedback, suggestions and contributions as we know that the
 
 >  👤 Follow us on GitHub to see what we’re building next
 
->  ⭐ Star our vault plugins repo if you find it useful
+>  ⭐ Star our [`vault-plugins`](https://github.com/gateplane-io/vault-plugins) repo if you find it useful
 
 >  🛠️ Open issues or submit pull requests to share fixes and features
 
->  💬 Join the conversation in github discussions and help shape our future
+>  💬 Join the conversation in [Github Discussions](https://github.com/orgs/gateplane-io/discussions) and help shape our future
 
 >  💻 Use, fork, and modify this project for yourself or within your company.
 
